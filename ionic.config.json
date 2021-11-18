@@ -1,0 +1,8 @@
+{
+  "name": "io.cordova.hellocordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom",
+  "id": "9a2a4229"
+}
