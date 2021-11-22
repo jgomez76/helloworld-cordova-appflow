@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <allow-navigation href="http://localhost/*" />
+    <allow-navigation href="https://localhost/*" />
+    <allow-navigation href="ionic://*" />
+    <feature name="IonicWebView">
+        <param name="android-package" value="com.ionicframework.cordova.webview.IonicWebView" />
+    </feature>
+    <feature name="IonicCordovaCommon">
+        <param name="android-package" onload="true" value="com.ionicframework.common.IonicCordovaCommon" />
+    </feature>
+    <name>HelloCordova</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="webView" value="com.ionicframework.cordova.webview.IonicWebViewEngine" />
+    <preference name="DisableDeploy" value="false" />
+    <preference name="AutoHideSplashScreen" value="false" />
+</widget>

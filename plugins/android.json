@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-ionic": {
+      "APP_ID": "9a2a4229",
+      "CHANNEL_NAME": "Master",
+      "UPDATE_API": "https://api.ionicjs.com",
+      "UPDATE_METHOD": "auto",
+      "MAX_STORE": "2",
+      "MIN_BACKGROUND_DURATION": "30",
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    }
+  }
+}

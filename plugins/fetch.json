@@ -13,5 +13,13 @@
       "MIN_BACKGROUND_DURATION": "30",
       "UPDATE_API": "https://api.ionicjs.com"
     }
+  },
+  "cordova-plugin-ionic-webview": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-ionic-webview@>=2.1.4"
+    },
+    "is_top_level": false,
+    "variables": {}
   }
 }
