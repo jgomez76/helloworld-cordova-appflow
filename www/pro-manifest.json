@@ -1,8 +1,8 @@
 [
   {
     "href": "index.html",
-    "size": 2418,
-    "integrity": "sha256-xj+9KG926wDqnhzuLkAnm1+1Lk0GUOGdUdUp5zjBzkA= sha384-4zo8p0K4WkLl/1UW9rI4LsrmZ42DDFcETrBqnIr07S2YMmjzOcw8Ics0ylMTDVWJ sha512-aFwm3BGBhFOVCZSvSTXO/IEeQfYmeFfc/EVYFUS9ks+A70Y9/uSlaTl7IZE6FYE9O50g7CqOYGt/D+RAfs0UBA=="
+    "size": 2420,
+    "integrity": "sha256-+7HlxlKczkEKBwXf4cGTQqHHWDUtmn59uouD0R1r2dw= sha384-yEDCG0nILhVRZAXq+3sY9a0c2Nw16oAsHuWhjjM3yW4BfT2mfRthQC1+JtXwCZMx sha512-dcwtxF94DE5bxsiB29Rwx3eHAdkCCu+UZi1p8rXSbWJQsHsxqRETvXUV7fMy1iPXROXRkIPvTE+MhTfgRFROTw=="
   },
   {
     "href": "css\\index.css",
